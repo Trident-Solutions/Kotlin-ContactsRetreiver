@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+    <string name="get_started">Get Started</string>
+    <string name="contacts">Contacts</string>
+    <string name="permission_required">Permissions Required</string>
+    <string name="denied_msg">You have forcefully denied some of the required permissions</string>
+    <string name="open_settings">for this action. Please open settings, go to permissions and allow them.</string>
+    <string name="ascending">ASC</string>
+    <string name="scheme">package</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
